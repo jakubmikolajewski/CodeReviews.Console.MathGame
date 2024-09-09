@@ -1,6 +1,4 @@
 ﻿using MathGame;
-using System;
-using System.Numerics;
 
 internal class MathGameMain
 {
